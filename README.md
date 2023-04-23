@@ -1,11 +1,11 @@
 # SoftwareTestAutomationQA-FinalProjects
 These are two projects for Software Test Automation & QA class. My job was to create classes (Application, Contact, Task) and their test classes. After that, I developed test cases for each of them, executed them, and ran the coverage test to confirm that all the possible outcomes were covered with the tests.
 
-#How can I ensure that my code, program, or software is functional and secure?
+# How can I ensure that my code, program, or software is functional and secure?
 The first step to ensure my code, program, or software is functional and secure is a manual review of the code. That is when we go through the code without running it and just look for issues that are easily visible as typos or wrong variable assignments. Next, we can do functional testing. This is where we confirm that the program works and the requirements are met. We can also do unit testing or white/ black box testing. To confirm that it is secure we can run Maven Dependency Check or see if the test cases that we created cover all the possible inputs from users. 
 
-#How do I interpret user needs and incorporate them into a program?
+# How do I interpret user needs and incorporate them into a program?
 User needs are usually stored initially as POAMs, which are "stories" of how the company or client wants the program to function. These are interpreted afterward and artifacts get created. These are requirements that need to be added and function in the code. These are also added as test cases so that those requirements can be marked as successful and completed. After the initial release of the code, some testing groups can be invited to private alpha or beta testing. These users can give us their thoughts on the program and they get interpreted and approved by the team. After, they get added to the program. 
 
-#How do I approach designing software?
+# How do I approach designing software?
 To make sure the software is designed properly, which means it is functional and secure, the code is neat and developed with industry standard practices. We should be fast with developing the code but not restless or make mistakes that can make the code not work or insecure. The best approach would be thoughtful consideration and review of POAMs and artifacts, to make sure we understand what needs to be done and then develop the code. I like the saying: "Measure twice, cut once", as it perfectly describes the approach to developing proper software. This can eliminate missing due dates, or excessive developing/ testing due to a mistake that could cost a lot of money, lives, or time.
